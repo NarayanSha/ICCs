@@ -1,5 +1,5 @@
 # ICCs
-Compute intraclass corelation 1 and 2
+Compute intraclass corelation 1 and 2 in R
 
 ICC1 and ICC2 for binary data using rptR
 
